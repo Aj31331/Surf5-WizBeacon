@@ -33,7 +33,15 @@ while True:
     # Delay
     time.sleep(5)
 ```
+<br />
+![Screenshot from 2024-07-10 14-31-32](https://github.com/Aj31331/Surf5-WizBeacon/assets/24795103/1e00f1a6-57b3-40fe-a426-7fdf54da9594)
+
+
+
+
+
 
 
 <br />
+
 
