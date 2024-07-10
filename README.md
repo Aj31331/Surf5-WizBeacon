@@ -35,7 +35,7 @@ while True:
 ```
 <br />
 
-![alt text]https://github.com/Aj31331/Surf5-WizBeacon/blob/main/Picocircuit.png?raw=true
+![alt text](https://github.com/Aj31331/Surf5-WizBeacon/blob/main/Picocircuit.png?raw=true)
 
 
 
