@@ -18,11 +18,49 @@ import audiocore
 audio = audiobusio.I2SOut(board.D24, board.D25, board.A3)
 
 # Define sound to play
-sound = '3_meters'
+name = 'Flip Turn'
 
 # Open sound wave file
-wave_file = open('sounds/' + sound + '.wav', 'rb')
-wave = audiocore.WaveFile(wave_file)
+playfunc = open('Path/' + name + '.wav', 'rb')
+wave = audiocore.WaveFile(playfunc)
+
+#Uncomment or Add based on the beacon position
+
+# Define sound to play
+#name = 'Five meter'
+
+# Open sound wave file
+#playfunc = open('Path/' + name + '.wav', 'rb')
+#wave = audiocore.WaveFile(playfunc)
+
+# Define sound to play
+#name = 'ten meter'
+
+# Open sound wave file
+#playfunc = open('Path/' + name + '.wav', 'rb')
+#wave = audiocore.WaveFile(playfunc)
+
+# Define sound to play
+#name = 'Fifteen meter'
+
+# Open sound wave file
+#playfunc = open('Path/' + name + '.wav', 'rb')
+#wave = audiocore.WaveFile(playfunc)
+
+# Define sound to play
+#name = 'Twenty Meter'
+
+# Open sound wave file
+#playfunc = open('Path/' + name + '.wav', 'rb')
+#wave = audiocore.WaveFile(playfunc)
+
+# Define sound to play
+#name = 'Twenty Five'
+
+# Open sound wave file
+#playfunc = open('Path/' + name + '.wav', 'rb')
+#wave = audiocore.WaveFile(playfunc)
+
 
 # Main loop
 while True:
