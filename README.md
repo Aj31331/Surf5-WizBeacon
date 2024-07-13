@@ -73,9 +73,7 @@ while True:
 
     # Delay
     time.sleep(5)
-```
-<br />
-![alt text](https://github.com/Aj31331/Surf5-WizBeacon/blob/main/2024-07-13-22-09-43-956.jpg)
+
 <br />
 ![alt text](https://github.com/Aj31331/Surf5-WizBeacon/blob/main/Picocircuit.png?raw=true)
 
