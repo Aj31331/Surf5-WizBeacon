@@ -8,7 +8,6 @@
 WizBeacon provides audio cues to help visually impaired swimmers to time their flip turns and stay oriented in the pool using sound signals. 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kBOCzjM_PrU/0.jpg)](https://www.youtube.com/watch?v=kBOCzjM_PrU)
-<br />
 
 
 #Pico I2S Code
@@ -77,7 +76,7 @@ while True:
 ```
 <br />
 ![alt text](https://github.com/Aj31331/Surf5-WizBeacon/blob/main/2024-07-13-22-09-43-956.jpg)
-
+<br />
 ![alt text](https://github.com/Aj31331/Surf5-WizBeacon/blob/main/Picocircuit.png?raw=true)
 
 
