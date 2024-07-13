@@ -7,7 +7,7 @@
 # Surf5-Wizbeacon
 WizBeacon provides audio cues to help visually impaired swimmers to time their flip turns and stay oriented in the pool using sound signals. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yWa-kgEg9Fw/0.jpg)](https://www.youtube.com/watch?v=yWa-kgEg9Fw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kBOCzjM_PrU/0.jpg)](https://www.youtube.com/watch?v=kBOCzjM_PrU)
 
 
 
